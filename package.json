@@ -1,9 +1,9 @@
 {
-  "name": "currency_exchange117",
+  "name": "asjid_currency_exchange",
   "version": "1.0.0",
   "description": "",
   "main": "currency.js",
-  "bin": "index.js",
+  "bin": "currency.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
